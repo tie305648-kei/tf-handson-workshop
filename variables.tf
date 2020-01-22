@@ -8,3 +8,4 @@ variable "hello_tf_instance_count" {
 variable "hello_tf_instance_type" {
     default = "t2.micro"
 }
+
